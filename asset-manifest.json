@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-quote-generator/static/css/main.afc86a99.chunk.css",
+    "main.js": "/react-quote-generator/static/js/main.570e7893.chunk.js",
+    "main.js.map": "/react-quote-generator/static/js/main.570e7893.chunk.js.map",
+    "runtime-main.js": "/react-quote-generator/static/js/runtime-main.cd62d776.js",
+    "runtime-main.js.map": "/react-quote-generator/static/js/runtime-main.cd62d776.js.map",
+    "static/js/2.18290fbb.chunk.js": "/react-quote-generator/static/js/2.18290fbb.chunk.js",
+    "static/js/2.18290fbb.chunk.js.map": "/react-quote-generator/static/js/2.18290fbb.chunk.js.map",
+    "index.html": "/react-quote-generator/index.html",
+    "precache-manifest.031a9fdfecdb13fca5cecd4b26388a33.js": "/react-quote-generator/precache-manifest.031a9fdfecdb13fca5cecd4b26388a33.js",
+    "service-worker.js": "/react-quote-generator/service-worker.js",
+    "static/css/main.afc86a99.chunk.css.map": "/react-quote-generator/static/css/main.afc86a99.chunk.css.map",
+    "static/media/twitter_icon.png": "/react-quote-generator/static/media/twitter_icon.5b7eb271.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd62d776.js",
+    "static/js/2.18290fbb.chunk.js",
+    "static/css/main.afc86a99.chunk.css",
+    "static/js/main.570e7893.chunk.js"
+  ]
+}
